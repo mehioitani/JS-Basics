@@ -38,3 +38,4 @@
 
 1. Change the inputs' borders to red if the passwords don't match
 2. Commit
+  
